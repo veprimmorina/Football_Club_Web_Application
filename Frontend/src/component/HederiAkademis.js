@@ -2,14 +2,7 @@ import React from 'react'
 import HederiSekondar from './HederiSekondar'
 
 function HederiAkademis() {
-  function darkMode(){
-
-  }
-  function whiteMode(){
-
-  }
-  var autentifikimi=localStorage.getItem(2)
-  if(autentifikimi=="auth"){
+ 
 
     return (
     <div>
@@ -40,14 +33,7 @@ function HederiAkademis() {
     </div>
 </div>
   )
-    }else{
-        return(
-            <HederiSekondar />
-        )
-            
-        
-        
-    }
+    
 }
 
 export default HederiAkademis
