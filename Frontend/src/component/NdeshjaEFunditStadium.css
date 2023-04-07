@@ -1,0 +1,25 @@
+#malisheva-foto{
+    max-width: 150px;
+    max-height: 150px;
+}
+#musafir-foto{
+    max-width: 150px;
+    max-height: 150px;
+}
+#manuali{
+    border: 1px solid black;
+    width: 16px;
+    height: 16px;
+    color: black;
+}
+th{
+    color: white;
+}
+.ekipi-vendas{
+    width: 50px;
+    height: 60px;
+}
+.ekipi-musafir{
+    width: 50px;
+    height: 60px;
+}

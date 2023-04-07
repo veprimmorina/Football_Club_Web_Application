@@ -1,0 +1,19 @@
+.sidebar{
+    background-color: red;
+}
+ul{
+    list-style: none;
+}
+.dash-list li{
+    width: 200px;
+    border-bottom: 2px solid rgb(32, 21, 21);
+}
+.logo-and-name{
+    width: 250px;
+
+}
+li a:hover{
+    cursor: pointer;
+}
+
+

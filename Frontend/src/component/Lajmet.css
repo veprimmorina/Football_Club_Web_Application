@@ -1,0 +1,60 @@
+#ulesja:hover{
+   color: white;
+  }
+#lojtaret-div{
+   display: flex;
+}
+#ulesja{
+   background-image: url('https://img.archiexpo.com/images_ae/photo-m2/190819-17550286.jpg');
+   background-size: 145px;
+   background-position: center;
+   background-repeat: no-repeat;
+   color: black;
+   height: 120px;
+   cursor: pointer;
+}
+#pershkrimi{
+   font-weight: bold;
+}
+#e-rezervuar{
+   transform: rotate(-45deg);
+   color: red;
+   font-weight: bold;
+}
+#rezervim-i-pamundur{
+   animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
+   transform: translate3d(0, 0, 0);
+   backface-visibility: hidden;
+   perspective: 1000px;
+}
+#fade{
+  animation: fadeInRight 1s ease-in-out;
+}
+
+@keyframes shake {
+   10%, 90% {
+     transform: translate3d(-1px, 0, 0);
+   }
+   
+   20%, 80% {
+     transform: translate3d(2px, 0, 0);
+   }
+ 
+   30%, 50%, 70% {
+     transform: translate3d(-4px, 0, 0);
+   }
+ 
+   40%, 60% {
+     transform: translate3d(4px, 0, 0);
+   }
+ }
+
+ @keyframes fadeInRight {
+  from {
+    opacity: 0;
+    transform: translateX(300px);
+  }
+  to {
+    opacity: 1;
+  }
+}

@@ -1,0 +1,31 @@
+.serv ul {
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 0;
+  }
+  
+  .serv ul li {
+    list-style: none;
+    flex: 0 0 33.333333%;
+  }
+  #data-ora{
+    width: 250px;
+    margin-left: 50px;
+  }
+  #search{
+    height: 30px;
+    border-radius: 10px;
+  }
+  #kerko{
+    width: 400px;
+    height: 40px;
+    border-radius: 10px;
+  }
+ 
+  
+  @media only screen and (min-width: 900px) {
+    .lajmi {
+        flex: 0 0 33.333333%;
+    }
+    
+}
