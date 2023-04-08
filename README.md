@@ -1,6 +1,6 @@
 # Football_Club_Web_Application
 
-Technology used: Spring Boot, Java, JavaScript, ReactJS, HTML, CSS, Bootstrap, MSSQL.
+# Technology used: Spring Boot, Java, JavaScript, ReactJS, HTML, CSS, Bootstrap, MSSQL.
 
 The football club web application is an online platform that has been developed for management purpose use by the club and for club fans. The primary objective of this web application is to allow club fans to book online tickets for the next game.
 
