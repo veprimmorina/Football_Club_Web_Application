@@ -6,7 +6,7 @@ The football club web application is an online platform that has been developed 
 
 ![bileta](https://user-images.githubusercontent.com/65460301/230694611-ad724801-d294-4ea7-b86c-674f403bdeef.png)
 
-Football club can also manage their academy and collaborate easily with childrens who are registred in club accademy. The children will have the opportunity to keep up to date with latest news and also with their trainig schedule. 
+Football club can also manage their academy and collaborate easily with childrens who are registred in club accademy. The children have the opportunity to keep up to date with latest news and also with their training schedule. 
 ![akademia](https://user-images.githubusercontent.com/65460301/230694606-8e3ae439-644d-47c1-85c7-d17b69f73ae5.png)
 
 These news and informations will be updated by the club management staff. Their will have access to different statistics and to modify web content.
